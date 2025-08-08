@@ -14,4 +14,8 @@ This project demonstrates a simple analysis of physical activity data (steps, ca
 This project requires Python 3.6+ and NumPy.
 ```bash
 pip install numpy
-
+```
+## Usage
+Run the main script to generate data and display the monthly activity summary:
+## Author
+Alexander
